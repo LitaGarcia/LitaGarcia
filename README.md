@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manuela! But everyone knows me as Lita 
+Hi 👋  I’m Manuela! But everyone knows me as Lita 
 
 I'm a Frontend Developer fascinated with the clean code and test new functionalities to make myself new goals. 
 
