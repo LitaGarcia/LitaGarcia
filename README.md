@@ -6,7 +6,7 @@ I'm Lita, a **Full-stack developer** with experience across front-end, back-end,
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=litagarcia&theme=omni&rank_icon=github" />
 </a>
 <a href="https://github.com/litagarcia/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=litagarcia&layout=compact&langs_count=7&card_width=332" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=litagarcia&layout=compact&langs_count=7&card_width=320" />
 </a>
 
 <h3>Languages and tools that I have worked with:</h3>
